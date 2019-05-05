@@ -8,8 +8,8 @@ int main(int argc, char* argv[])
     const std::string helpText =
         "Usage: recf operation \"patterns\" target_dir [source_dir]\n\n"
         "operations:\n"
-        "\tc\tcopy the files matching the criteria\n"
-        "\tm\tmove the files matching the criteria\n"
+        "\tc\tcopy the files matching the pattern\n"
+        "\tm\tmove the files matching the pattern\n"
         "\th\tdisplay this text\n"
         "\n"
         "patterns:\n"
