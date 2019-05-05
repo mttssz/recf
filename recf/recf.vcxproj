@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{C017C4A2-CC51-4B7A-8AFD-62D6DB7C0BBD}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>rcp</RootNamespace>
+    <RootNamespace>recf</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>recf</ProjectName>
   </PropertyGroup>
